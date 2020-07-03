@@ -1,0 +1,16 @@
+{
+  "name": "za-spam-det",
+  "version": "1.0.0",
+  "description": "Zero access spam detection",
+  "main": "mailClassifier.js",
+  "scripts": {
+    "test": "mocha"
+  },
+
+  "author": "giray",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
